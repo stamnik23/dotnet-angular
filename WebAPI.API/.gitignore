@@ -1,0 +1,6 @@
+﻿.vscode
+bin
+obj
+*.db
+*.db.lock
+.vs
